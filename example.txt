@@ -1,0 +1,3 @@
+Hello, this is a sample text!
+Writing into a file using Python.
+End of the file.
